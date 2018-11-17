@@ -1,0 +1,65 @@
+@CHARSET "windows-1256";
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	
+	background-image: url(register.jpeg);
+	background-size: cover;
+	background-attachment: fixed;
+	font-family: new time roman;
+}
+h3{
+	font-size: 30px;
+	color: maroon;
+	margin-top: 250px;
+}
+h4{
+	font-size:30px;
+	color: aqua;
+	margin-top: 10px;
+}
+p{
+	font-size: 17px;
+	color:navy;
+}
+.glyphicon-pencil{
+	font-size: 30px;
+	text-align: center;
+	color: aqua;
+	float: right;
+	margin-top: 10px;
+	
+}
+.col-md-4{
+	margin-top: 80px;
+	margin-right: 0px;
+	margin-left: 30px;
+	background-color:rgba(150,0,200,0.3);
+	box-shadow: -1px 1px 60px 10px #400080;
+}
+#check_username_availability{
+	color:yellow;
+	font-size: 15px;
+}
+.label{
+	margin-top: 18px;
+	font-size: 14px;
+}
+.col-md-offset-3{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#login{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.col-md-9{
+	margin-top: 10px;
+}
+#check_email_message{
+	font-size: 15px;
+	color: red;
+	text-align:left;	
+}
